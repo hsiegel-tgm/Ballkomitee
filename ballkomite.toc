@@ -1,0 +1,31 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Anwesenheit}{2}
+\contentsline {section}{\numberline {2}Hannah traegt vor:}{3}
+\contentsline {subsection}{\numberline {2.1}Hardfacts - Wiederholung}{3}
+\contentsline {subsection}{\numberline {2.2}Besichtigung Palais Auersperg}{3}
+\contentsline {subsection}{\numberline {2.3}DJs}{3}
+\contentsline {subsection}{\numberline {2.4}Fotografen}{3}
+\contentsline {subsection}{\numberline {2.5}Crash Kurs}{3}
+\contentsline {subsection}{\numberline {2.6}Eintaenzen}{3}
+\contentsline {subsubsection}{\numberline {2.6.1}Tanzschule}{3}
+\contentsline {subsubsection}{\numberline {2.6.2}Termine der Proben}{3}
+\contentsline {subsubsection}{\numberline {2.6.3}Anmeldung zum Eintanzen}{4}
+\contentsline {subsection}{\numberline {2.7}Plakat}{4}
+\contentsline {subsection}{\numberline {2.8}Eintrittskarten}{4}
+\contentsline {subsubsection}{\numberline {2.8.1}Kartenverkauf}{4}
+\contentsline {subsubsection}{\numberline {2.8.2}Gratis Eintritte}{4}
+\contentsline {subsubsection}{\numberline {2.8.3}Tischkarten}{5}
+\contentsline {subsection}{\numberline {2.9}Deko}{5}
+\contentsline {subsubsection}{\numberline {2.9.1}Technische Deko}{5}
+\contentsline {subsection}{\numberline {2.10}Ballkoeniging und Ballkoenig}{5}
+\contentsline {subsection}{\numberline {2.11}Organisation am Balltag}{6}
+\contentsline {subsubsection}{\numberline {2.11.1}Meetings}{6}
+\contentsline {subsubsection}{\numberline {2.11.2}Handys}{6}
+\contentsline {subsubsection}{\numberline {2.11.3}Alkohol}{6}
+\contentsline {subsubsection}{\numberline {2.11.4}Zeitplan fuer den Balltag}{6}
+\contentsline {subsubsection}{\numberline {2.11.5}Kontaktinformationen}{6}
+\contentsline {section}{\numberline {3}Input von euch:}{7}
+\contentsline {section}{\numberline {4}Einteilung}{8}
+\contentsline {subsection}{\numberline {4.1}Verantwortliche / Chefes}{9}
+\contentsline {subsection}{\numberline {4.2}Klasseneinteilung}{9}
+\contentsline {subsection}{\numberline {4.3}Naechste Treffen}{9}
